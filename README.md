@@ -1,8 +1,6 @@
 🌐 Personal Portfolio Website
 📌 Live Demo
-
-🔗 View Portfolio
-
+  https://gorgeous-narwhal-6c8584.netlify.app/#contact
 📖 About the Project
 
 This is my personal portfolio website designed to showcase my skills, projects, and experience as a web developer. The portfolio highlights my work in front-end development and demonstrates my ability to build responsive and user-friendly web applications.
